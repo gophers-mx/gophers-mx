@@ -1,4 +1,5 @@
-baseURL = "https://gophers-mx.github.io/gophers-mx/"
+# baseURL = "https://gophers-mx.github.io/gophers-mx/"
+relativeURLs = true
 languageCode = "es-mx"
 title = "gophers mx"
 theme = 'my-theme'
@@ -7,7 +8,7 @@ paginate = 5
 [params]
   author = "gophers mx"
   description = "El sitio web de la comunidad de GO 🇲🇽"
-  cover = "/img/cover.png"
+  cover = "img/cover.png"
   twitter = "@gophersmx"
 
 [taxonomies]

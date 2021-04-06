@@ -7,7 +7,7 @@ twitter: 'https://twitter.com/imjulianeral'
 github: 'https://github.com/imjulianeral'
 cover_image: '/img/blog/como-agregar-un-recurso/cover.png'
 description: 'Como contribuir a la comunidad agregando un nuevo recurso'
-tags: ['tag']
+tags: ['tutoriales', 'gophersmx']
 ---
 
 ¡Hola! Que bueno que quieras aportar a la comunidad con tu conocimiento, a continuación veras lo facil que es contribuir ❤️.

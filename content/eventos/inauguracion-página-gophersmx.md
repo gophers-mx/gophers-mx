@@ -2,14 +2,16 @@
 title: 'Inauguracion Página Gophersmx'
 date: 2021-04-05T19:57:01-05:00
 draft: false
-author: 'Your name'
-twitter: 'https://twitter.com/username'
-cover_image: '/img/eventos/event-name.jpg'
+author: 'Jorge Acero'
+twitter: 'https://twitter.com/imjulianeral'
+cover_image: '/img/eventos/inauguracion/cover.png'
 description: 'brief summary'
 event_links: ['https://eventsite.com', 'https://stream.com']
 events: ['inauguracion']
 ---
 
-## Inauguración de la página!
+## ¡Inauguración de la página!
 
-Bienvenidos a la página oficial de la comunidad donde podrán leer posts y los recursos que pueden ser creados **por ustedes mismos**; pueden agregar posts
+Bienvenidos a la página oficial de la comunidad donde podrán leer posts y los recursos que pueden ser creados **por ustedes mismos**; [pueden agregar posts](https://gophers-mx.github.io/gophers-mx/blog/como-agregar-un-recurso/) y [agregar recursos](https://gophers-mx.github.io/gophers-mx/blog/como-agregar-un-recurso/)
+
+## ¡¡¡Que lo disfruten!!! 🤗

@@ -12,6 +12,6 @@ events: ['inauguracion']
 
 ## ¡Inauguración de la página!
 
-Bienvenidos a la página oficial de la comunidad donde podrán leer posts y los recursos que pueden ser creados **por ustedes mismos**; [pueden agregar posts](https://gophers-mx.github.io/gophers-mx/blog/como-agregar-un-recurso/) y [agregar recursos](https://gophers-mx.github.io/gophers-mx/blog/como-agregar-un-recurso/)
+Bienvenidos a la página oficial de la comunidad donde podrán leer posts y los recursos que pueden ser creados **por ustedes mismos**; [pueden agregar posts](https://gophers-mx.github.io/gophers-mx/blog/como-crear-un-post/) y [agregar recursos](https://gophers-mx.github.io/gophers-mx/blog/como-agregar-un-recurso/)
 
 ## ¡¡¡Que lo disfruten!!! 🤗

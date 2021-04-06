@@ -1,0 +1,47 @@
+baseURL = "https://tender-roentgen-d6e051.netlify.app/"
+languageCode = "es-mx"
+title = "gophers mx"
+theme = 'my-theme'
+paginate = 5
+
+[params]
+  author = "gophers mx"
+  description = "El sitio web de la comunidad de GO 🇲🇽"
+  cover = "/img/cover.png"
+  twitter = "@gophersmx"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  events = 'events'
+
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog"
+    weight = 10
+  [[menu.main]]
+    identifier = "recursos"
+    name = "Recursos"
+    url = "/recursos"
+    weight = 20
+  [[menu.main]]
+    identifier = "eventos"
+    name = "Eventos"
+    url = "/eventos"
+    weight = 30
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "dracula"
+    tabWidth = 2

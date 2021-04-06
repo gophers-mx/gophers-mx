@@ -1,0 +1,5 @@
+<div class="sidebar header__shadow">
+  {{ range . }}
+  <a href="{{ .Page.RelPermalink }}" class="badge">{{ .Page.Title }}</a>
+  {{ end }}
+</div>

@@ -1,4 +1,4 @@
-baseURL = "https://tender-roentgen-d6e051.netlify.app/"
+baseURL = "https://gophers-mx.github.io/gophers-mx/"
 languageCode = "es-mx"
 title = "gophers mx"
 theme = 'my-theme'

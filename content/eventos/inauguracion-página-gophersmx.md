@@ -5,7 +5,7 @@ draft: false
 author: 'Jorge Acero'
 twitter: 'https://twitter.com/imjulianeral'
 cover_image: '/img/eventos/inauguracion/cover.png'
-description: 'brief summary'
+description: 'Página de inauguración'
 event_links: ['https://eventsite.com', 'https://stream.com']
 events: ['inauguracion']
 ---
